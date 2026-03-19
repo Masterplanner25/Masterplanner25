@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# AI crawlers — explicit permission to index
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://masterplanner25.github.io/Masterplanner25/sitemap.xml

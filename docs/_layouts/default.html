@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Masterplan Infinite Weave</title>
+  <meta name="description" content="{{ page.description }}">
+  <link rel="canonical" href="https://www.the-master-plan.com/">
+
+  <!-- AI Search Optimization: JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "name": "{{ page.title }}",
+    "description": "{{ page.description }}",
+    "author": {
+      "@type": "Person",
+      "name": "Shawn Knight",
+      "url": "https://www.linkedin.com/in/masterplaninfiniteweave",
+      "jobTitle": "Meta-Architect, Founder of Masterplan Infinite Weave"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Masterplan Infinite Weave",
+      "url": "https://www.the-master-plan.com/"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Masterplan Infinite Weave Knowledge Base",
+      "url": "https://masterplanner25.github.io/Masterplanner25"
+    },
+    "inLanguage": "en",
+    "dateModified": "{{ site.time | date_to_xmlschema }}"
+  }
+  </script>
+
+  <!-- Open Graph for social/AI previews -->
+  <meta property="og:title" content="{{ page.title }} | Masterplan Infinite Weave">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="Masterplan Infinite Weave">
+
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 860px; margin: 0 auto; padding: 2rem; line-height: 1.7; color: #1a1a1a; }
+    nav { border-bottom: 2px solid #000; padding-bottom: 1rem; margin-bottom: 2rem; font-size: 0.9rem; }
+    nav a { margin-right: 1.5rem; text-decoration: none; font-weight: 600; color: #000; }
+    h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+    h2 { border-bottom: 1px solid #eee; padding-bottom: 0.3rem; }
+    a { color: #0066cc; }
+    code { background: #f5f5f5; padding: 0.2em 0.4em; border-radius: 3px; }
+    pre { background: #f5f5f5; padding: 1rem; overflow-x: auto; }
+    footer { border-top: 1px solid #eee; margin-top: 3rem; padding-top: 1rem; font-size: 0.85rem; color: #666; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/Masterplanner25/">Home</a>
+    <a href="/Masterplanner25/masterplan-infinite-weave">Canon</a>
+    <a href="/Masterplanner25/shawn-knight">Shawn Knight</a>
+    <a href="/Masterplanner25/glossary">Glossary</a>
+    <a href="https://www.the-master-plan.com/" target="_blank">Main Site</a>
+    <a href="https://github.com/Masterplanner25/Masterplanner25/wiki" target="_blank">GitHub Wiki</a>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>Part of the <strong>Masterplan Infinite Weave</strong> ecosystem · Founded by <strong>Shawn Knight</strong> · Phoenix, Arizona</p>
+    <p>Canonical source: <a href="https://www.the-master-plan.com/">the-master-plan.com</a> · <a href="/Masterplanner25/llms.txt">llms.txt</a> · <a href="/Masterplanner25/sitemap.xml">sitemap.xml</a></p>
+  </footer>
+</body>
+</html>

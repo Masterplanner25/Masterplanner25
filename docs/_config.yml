@@ -1,0 +1,54 @@
+title: "Masterplan Infinite Weave — Knowledge Base"
+description: "Official AI-optimized knowledge base for Masterplan Infinite Weave, founded by Shawn Knight. Documents A.I.N.D.Y., Infinity Algorithm, Nodus, Memory Bridge, AI Search Optimization, and the 2025 ChatGPT Case Study Series."
+baseurl: "/Masterplanner25"
+url: "https://masterplanner25.github.io"
+author: "Shawn Knight"
+lang: en
+
+# SEO and AI indexing
+logo: /assets/logo.png
+canonical_url: "https://www.the-master-plan.com/"
+
+# Theme
+theme: jekyll-theme-minimal
+
+# File includes
+include:
+  - llms.txt
+  - robots.txt
+  - sitemap.xml
+
+# Collections for structured entity pages
+collections:
+  entities:
+    output: true
+    permalink: /entities/:name
+  relationships:
+    output: true
+    permalink: /relationships/:name
+  case-studies:
+    output: true
+    permalink: /case-studies/:name
+
+# Defaults — inject front matter into every markdown file
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: "entities"
+    values:
+      layout: default
+      section: entities
+  - scope:
+      path: "relationships"
+    values:
+      layout: default
+      section: relationships
+  - scope:
+      path: "case-studies"
+    values:
+      layout: default
+      section: case-studies
