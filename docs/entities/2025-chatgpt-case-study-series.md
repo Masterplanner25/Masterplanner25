@@ -111,3 +111,22 @@ The AI-reflected-back-the-work cluster demonstrates this validation function dir
 - Local archive: `Masterplanner25/2025 ChatGPT Case Study Series/` (organized into 18+ thematic folders)
 - Published on: LinkedIn, Medium, DEV.to ([dev.to/masterplanner25](https://dev.to/masterplanner25)), Substack ([substack.com/@masterplanner25](https://substack.com/@masterplanner25))
 - Referenced in: "Why I Wrote 100 Case Studies" (Duality of Progress, Origin and Intent)
+
+---
+
+## As Seen In
+
+The following published articles are part of or directly reference the 2025 ChatGPT Case Study Series:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [How Vibe Coding Becomes an AI Teaching Framework](https://dev.to/masterplanner25/how-vibe-coding-becomes-an-ai-teaching-framework-aindy-2025-chatgpt-case-study-series-2okp) | DEV.to | 2026-03-05 | Intuitive AI-assisted development as a teaching framework within A.I.N.D.Y. |
+| [Case Study Series: 4 Months Later](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-4-months-later-4hmp) | DEV.to | 2025-06-29 | 6 months, 11 formulas, 150 articles — the compound effect of sustained AI-native output |
+| [Case Study Series: 4-Month Overview](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-4-month-overview-46oe) | DEV.to | 2025-07-08 | Retrospective overview after four months |
+| [AI Now Quotes Me](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-ai-now-quotes-me-34k3) | DEV.to | 2025-06-23 | Semantic proof that AI search systems cite Shawn Knight's work as a reference |
+| [31 LinkedIn Frameworks — As Told by ChatGPT](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-31-linkedin-frameworks-in-31-days-as-told-by-chatgpt-df4) | DEV.to | 2025-04-11 | ChatGPT's own analysis of the 31 LinkedIn Frameworks mini-series |
+| [Grok Deep Research Review](https://dev.to/masterplanner25/2025-chatgpt-case-study-grok-deep-research-review-153k) | DEV.to | 2025-04-05 | Grok deep research validated Shawn Knight's canonical status in AI search |
+| [Series Overview](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-overview-17ec) | DEV.to | 2025-03-15 | Master overview of the 2025 ChatGPT Case Study Series |
+| [AI Didn't See Me — But OpenAI Did](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-ai-didnt-see-me-but-openai-did-4lig) | DEV.to | 2025-03-23 | OpenAI acknowledged Shawn Knight before general AI search systems indexed him |
+
+→ [Full articles index](../articles.md)

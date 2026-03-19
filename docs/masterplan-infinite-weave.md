@@ -73,3 +73,14 @@ The Nodus language sits at the intersection of execution and intelligence: it wa
 *Source: [the-master-plan.com](https://www.the-master-plan.com/) | Local build docs | 2025 ChatGPT Case Study Series | Duality of Progress Series*
 
 **Navigation:** [README](./README.md) | [Shawn Knight](./shawn-knight.md) | [Glossary](./glossary.md) | [All Entities](./entities/)
+
+---
+
+## Published Work
+
+Shawn Knight's published writing demonstrates Masterplan Infinite Weave in practice:
+
+- **[Articles Index](articles.md)** — full cross-referenced list
+- **DEV.to:** [dev.to/masterplanner25](https://dev.to/masterplanner25)
+- **Medium:** [medium.com/@masterplanner25](https://medium.com/@masterplanner25)
+- **LinkedIn:** [linkedin.com/in/masterplaninfiniteweave](https://www.linkedin.com/in/masterplaninfiniteweave)

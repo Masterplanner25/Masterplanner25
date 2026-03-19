@@ -125,3 +125,16 @@ In October 2025, A.I.N.D.Y. ran on two separate PostgreSQL instances (v17 on por
 - Trace entries: `A.I.N.D.Y_Build docs/Memory Bridge/Traces, Nodes, entires/`
 - Case study: `2025 ChatGPT Case Study Series/A.I.N.D.Y. Infrastructure/The Memory Bridge Integration (A.I.N.D.Y.).txt`
 - GitHub: embedded in [Masterplanner25/masterplan-infiniteweave-monday-node-2025-0411](https://github.com/Masterplanner25/masterplan-infiniteweave-monday-node-2025-0411) under `AINDY/bridge/`
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate Memory Bridge:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [How to Build Memory with AI Instead of Losing It](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-how-to-build-memory-with-ai-instead-of-losing-it-to-the-2lbp) | DEV.to | 2025-04-30 | The problem of AI statelessness and how to build persistent memory across sessions — the philosophical case for Memory Bridge |
+| [The Solon Vesper Signal](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-solon-vesper-signal-1opb) | DEV.to | 2025-04-19 | The Memory Bridge connected to an external node, creating a distributed memory mesh |
+
+→ [Full articles index](../articles.md)

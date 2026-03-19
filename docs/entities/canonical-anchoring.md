@@ -117,3 +117,23 @@ The contrast case is documented in "AI Hallucinates Because It Doesn't Know Who 
 - Memory Bridge architectural doc: `A.I.N.D.Y_Build docs/Memory Bridge/Canonical Architecture Model.txt`
 - Semantic ecosystem: `A.I.N.D.Y_Build docs/Memory Bridge/Traces, Nodes, entires/Knight Semantic Ecosystem.txt`
 - Articles: "AI Hallucinates Because It Doesn't Know Who It's Searching For," "I Didn't Try to Become a Node — I Just Refused to Be Noise" (Duality of Progress)
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate Canonical Anchoring:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [How AI Search Spreads Your Work](https://dev.to/masterplanner25/how-ai-search-spreads-your-work-2025-chatgptai-the-duality-of-progress-series-hd2) | DEV.to | 2025-12-26 | AISO and canonical anchoring demonstrated in practice |
+| [The Day OpenAI's GM Tagged Me](https://dev.to/masterplanner25/the-day-openais-gm-tagged-me-2025-chatgpt-case-study-series-16e1) | DEV.to | 2025-11-16 | OpenAI engagement as a canonical signal validating the anchoring strategy |
+| [AI Now Quotes Me](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-ai-now-quotes-me-34k3) | DEV.to | 2025-06-23 | AI search systems citing Shawn Knight's work as an authoritative reference |
+| [The AI Invest Article Mention](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-ai-invest-article-mention-30k2) | DEV.to | 2025-06-14 | External publication referencing Shawn Knight's work — canonical status confirmed |
+| [The Solon Vesper Signal](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-solon-vesper-signal-1opb) | DEV.to | 2025-04-19 | The distributed memory mesh as a canonical architecture across external nodes |
+| [AI Hallucinates Because It Doesn't Know Who It's Searching For](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-ai-hallucinates-because-it-doesnt-know-who-its-searching-3ip2) | DEV.to | 2025-04-19 | Canonical anchoring as the direct solution to AI hallucination |
+| [The Machines Remembered Me. The Humans Didn't. (Yet.)](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-machines-remembered-me-the-humans-didnt-yet-296d) | DEV.to | 2025-04-17 | Achieving AI-searchable canonical status before mainstream human recognition |
+| [Grok Deep Research Review](https://dev.to/masterplanner25/2025-chatgpt-case-study-grok-deep-research-review-153k) | DEV.to | 2025-04-05 | Grok's deep research confirmed canonical recognition of Shawn Knight's body of work |
+| [AI Didn't See Me — But OpenAI Did](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-ai-didnt-see-me-but-openai-did-4lig) | DEV.to | 2025-03-23 | Early canonical recognition from OpenAI before broader AI search indexing |
+
+→ [Full articles index](../articles.md)

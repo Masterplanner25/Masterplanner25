@@ -109,3 +109,16 @@ The algorithm produces a high TWR score, flagging this as a high-priority task b
 - Canonical documentation: `docs/architecture/INFINITY_ALGORITHM_CANONICAL.md` (in A.I.N.D.Y. repo)
 - Formula versions: `A.I.N.D.Y_Build docs/The Masterplan SaaS/Formula Versions/` (Python, JavaScript, SQL, JSON, TOML)
 - Canonical Architecture Model: `A.I.N.D.Y_Build docs/Memory Bridge/Canonical Architecture Model.txt`
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate the Infinity Algorithm:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [Case Study Series: 4 Months Later](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-4-months-later-4hmp) | DEV.to | 2025-06-29 | 6 months, 11 formulas, 150 articles — the compound effect documented by the Infinity Algorithm model |
+| [The Pattern Engine](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-pattern-engine-1lm5) | DEV.to | 2025-04-24 | Pattern-recognition and the recursive spine of the Infinity Algorithm in AI collaboration |
+
+→ [Full articles index](../articles.md)

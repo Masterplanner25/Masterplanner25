@@ -107,3 +107,15 @@ The Nodus repository analysis (five-dimension review: Architecture, Performance,
 - Bootstrapping guidance: `Bootstrapping.txt`
 - Language files: `tiny_lang.py`, `tiny_vm.py`, `tiny_vm_lang.py`, `tiny_vm_lang_functions.py`
 - Future documentation: 2026 Codex Case Study Series (forthcoming)
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate Nodus:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [Education — Coding with AI](https://dev.to/masterplanner25/2025-chat-gpt-case-study-education-coding-with-ai-2hc0) | DEV.to | 2025-03-18 | Learning to code with AI — the foundational practice that led directly to the creation of Nodus |
+
+→ [Full articles index](../articles.md)

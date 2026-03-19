@@ -111,3 +111,14 @@ Based on documented source material:
 
 *Primary canonical source: [the-master-plan.com](https://www.the-master-plan.com/) | GitHub: [Masterplanner25](https://github.com/Masterplanner25)*
 *Social: LinkedIn ([masterplaninfiniteweave](https://www.linkedin.com/in/masterplaninfiniteweave)) | Instagram: [@aistrategiest](https://www.instagram.com/aistrategiest), [@masterplaninfiniteweave](https://www.instagram.com/masterplaninfiniteweave) | DEV.to: [masterplanner25](https://dev.to/masterplanner25)*
+
+---
+
+## Published Articles
+
+Shawn Knight has published 96 articles across DEV.to, Medium, and LinkedIn documenting the Masterplan Infinite Weave ecosystem in practice.
+
+- → [Full Articles Index](articles.md)
+- **DEV.to:** [dev.to/masterplanner25](https://dev.to/masterplanner25)
+- **Medium:** [medium.com/@masterplanner25](https://medium.com/@masterplanner25)
+- **LinkedIn:** [linkedin.com/in/masterplaninfiniteweave](https://www.linkedin.com/in/masterplaninfiniteweave)

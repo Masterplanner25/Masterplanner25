@@ -109,3 +109,24 @@ In A.I.N.D.Y., the AISO module's design brief (from build documents): "Go beyond
 - Strategic article: `2025 ChatGPT Case Study Series/The Masterplan SaaS/AI Search Optimization_The Start of the series.txt`
 - Series anchor: `2025 ChatGPT Case Study Series/Shape the Signal/` (cluster)
 - AI Search Concepts extracted: `A.I.N.D.Y_Build docs/The Masterplan SaaS/AI Search Concepts extracted.txt`
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate AI Search Optimization (AISO):
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [How AI Search Spreads Your Work](https://dev.to/masterplanner25/how-ai-search-spreads-your-work-2025-chatgptai-the-duality-of-progress-series-hd2) | DEV.to | 2025-12-26 | AI search amplifies semantically dense content — a practical AISO demonstration |
+| [AI Now Quotes Me](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-ai-now-quotes-me-34k3) | DEV.to | 2025-06-23 | Semantic proof that AI search systems return Shawn Knight's content as a reference |
+| [The AI Invest Article Mention](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-ai-invest-article-mention-30k2) | DEV.to | 2025-06-14 | AInvest referenced Shawn Knight's work — external canonical confirmation |
+| [The Spontaneous Signal Framework](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-spontaneous-signal-framework-42ed) | DEV.to | 2025-05-01 | Creating authentic AI search signals without forcing them |
+| [The Silent Spotlight Framework](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-silent-spotlight-framework-4bj1) | DEV.to | 2025-05-03 | Generating inbound attention without chasing visibility |
+| [Shadow Sharing Confirmed](https://dev.to/masterplanner25/20252025-chatgptai-the-duality-of-progress-shadow-sharing-confirmed-2gjd) | DEV.to | 2025-05-05 | Loop behavior exposes real reach beyond platform metrics |
+| [AI Hallucinates Because It Doesn't Know Who It's Searching For](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-ai-hallucinates-because-it-doesnt-know-who-its-searching-3ip2) | DEV.to | 2025-04-19 | AI hallucination as a content creator failure; canonical anchoring as the AISO solution |
+| [The Machines Remembered Me. The Humans Didn't. (Yet.)](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-machines-remembered-me-the-humans-didnt-yet-296d) | DEV.to | 2025-04-17 | Achieving AI-searchable canonical status before mainstream human recognition |
+| [Grok Deep Research Review](https://dev.to/masterplanner25/2025-chatgpt-case-study-grok-deep-research-review-153k) | DEV.to | 2025-04-05 | Grok's deep research validated Shawn Knight's canonical status in AI search |
+| [AI Didn't See Me — But OpenAI Did](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-ai-didnt-see-me-but-openai-did-4lig) | DEV.to | 2025-03-23 | OpenAI acknowledged Shawn Knight before general AI search systems had indexed him |
+
+→ [Full articles index](../articles.md)

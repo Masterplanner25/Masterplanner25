@@ -110,3 +110,24 @@ The article "The Day ChatGPT Deep Researched Me" (Identity, Signal, and Suppress
 - Genesis article: `Origin and Intent/The Genesis of the Infinite Weave.txt`
 - Origin article: `Origin and Intent/I Accidentally Wrote My Master Plan with ChatGPT.txt`
 - Published on: LinkedIn, Medium, DEV.to, Substack
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate the Duality of Progress:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [I Accidentally Wrote My Master Plan with ChatGPT](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-i-accidentally-wrote-my-master-plan-with-chatgpt-118o) | DEV.to | 2025-04-16 | The origin article for Masterplan Infinite Weave and the Duality of Progress series |
+| [The Genesis of the Infinite Weave](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-genesis-of-the-infinite-weave-44em) | DEV.to | 2025-04-17 | Genesis article introducing the duality framework — progress requires friction and contrast |
+| [Duality of Progress: Master Index & Strategic Manifesto](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-master-index-strategic-manifesto-2mnd) | DEV.to | 2025-07-13 | Navigation document establishing the Duality of Progress as a living recursive system |
+| [The Prompt Trap](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-prompt-trap-50k3) | DEV.to | 2025-04-15 | Introduces the Prompt Trap concept — optimizing for prompts instead of genuine AI collaboration |
+| [Prompt vs Presence](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-prompt-vs-presence-reframing-the-ai-relationship-fpg) | DEV.to | 2025-04-27 | Introduces the Prompt vs Presence framework |
+| [The Mirror Invite Method](https://dev.to/masterplanner25/20252025-chatgptai-the-duality-of-progress-the-mirror-invite-method-1g15) | DEV.to | 2025-05-02 | Introduces the Mirror Invite Method for AI-reflected structured insight |
+| [The Spontaneous Signal Framework](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-spontaneous-signal-framework-42ed) | DEV.to | 2025-05-01 | Introduces the Spontaneous Signal Framework |
+| [Execution in Motion](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-execution-in-motion-bb3) | DEV.to | 2025-05-08 | CTB Blakkk case study — Meta-Engineer execution in the Duality framework |
+| [How AI Diagnosed Me as Gifted](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-how-ai-diagnosed-me-as-gifted-after-the-system-held-me-4a8j) | DEV.to | 2025-04-22 | Personal account — AI surfaced cognitive capacity the education system failed to recognize |
+| [Trust Me, You Don't Know What I'm Talking About](https://dev.to/masterplanner25/trust-me-you-dont-know-what-im-talking-about-2025-chatgptai-the-duality-of-progress-series-2fj) | DEV.to | 2025-12-27 | Critique of expert credentialism in AI |
+
+→ [Full articles index](../articles.md)

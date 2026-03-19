@@ -113,3 +113,23 @@ This was the first moment the system received, recognized, and persisted an exte
 - Case studies: `2025 ChatGPT Case Study Series/A.I.N.D.Y. Infrastructure/`
 - Repository analysis (March 15, 2026): `A.I.N.D.Y. Repository Analysis.txt`
 - System manifest: `AINDY/system_manifest.json` (v0.9.0-pre)
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate A.I.N.D.Y.:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [How Vibe Coding Becomes an AI Teaching Framework (A.I.N.D.Y.)](https://dev.to/masterplanner25/how-vibe-coding-becomes-an-ai-teaching-framework-aindy-2025-chatgpt-case-study-series-2okp) | DEV.to | 2026-03-05 | How intuitive AI-assisted development functions as a teaching framework within the A.I.N.D.Y. build process |
+| [The Google Gemini Experience](https://dev.to/masterplanner25/the-google-gemini-experience-2025-chatgpt-case-study-series-1ahe) | DEV.to | 2025-11-15 | Structured evaluation of Google Gemini against the Masterplan ecosystem workflow |
+| [From Strategy to Reality](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-from-strategy-to-reality-and-why-the-grind-still-matters-1gn0) | DEV.to | 2025-05-14 | How the ChatGPT-generated Masterplan document became the blueprint that built A.I.N.D.Y. |
+| [The Engine is Built. The Workflow is Missing.](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-engine-is-built-the-workflow-is-missing-1p96) | DEV.to | 2025-05-07 | The systemic gap between AI capability and execution workflow — A.I.N.D.Y.'s core opportunity |
+| [From DTF to A.I.N.D.Y.](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-from-dtf-to-aindy-2fe7) | DEV.to | 2025-04-20 | The personal origin story behind A.I.N.D.Y. |
+| [Why I'm Building A.I.N.D.Y.](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-why-im-building-aindy-or-any-tool-really-4h64) | DEV.to | 2025-04-20 | The gap between what AI tools do and what builders actually need |
+| [Why I Wrote 100 Case Studies, Built an MVP, and Still Felt…](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-why-i-wrote-100-case-studies-built-an-mvp-and-still-felt-1ncm) | DEV.to | 2025-04-14 | The honest account of building A.I.N.D.Y. alongside 100 case studies |
+| [Augmented Intelligence](https://dev.to/masterplanner25/2025-chatgpt-case-study-augmented-intelligence-2c39) | DEV.to | 2025-03-19 | Augmented intelligence as the practical model; A.I.N.D.Y.'s underlying philosophy |
+| [Education — Coding with AI](https://dev.to/masterplanner25/2025-chat-gpt-case-study-education-coding-with-ai-2hc0) | DEV.to | 2025-03-18 | Learning to code with AI — the foundational practice behind A.I.N.D.Y.'s development |
+
+→ [Full articles index](../articles.md)

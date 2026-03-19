@@ -90,3 +90,22 @@ In October 2025, Shawn Knight connected A.I.N.D.Y.'s frontend, Node.js bridge, a
 - Canonical anchor page: [the-master-plan.com/canonical-anchor](https://www.the-master-plan.com/canonical-anchor)
 - GitHub: [Masterplanner25](https://github.com/Masterplanner25)
 - Origin article: "I Accidentally Wrote My Master Plan with ChatGPT" (Duality of Progress Series)
+
+---
+
+## As Seen In
+
+The following published articles reference or demonstrate Masterplan Infinite Weave:
+
+| Article | Platform | Date | Summary |
+|---------|----------|------|---------|
+| [I Accidentally Wrote My Master Plan with ChatGPT](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-i-accidentally-wrote-my-master-plan-with-chatgpt-118o) | DEV.to | 2025-04-16 | The origin article — the ChatGPT session that became the Masterplan Infinite Weave architecture |
+| [THE MASTERPLAN: LEGACY EDITION (2024)](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-masterplan-legacy-edition-2024-2p6o) | DEV.to | 2025-04-21 | The December 2024 origin vision — one session sparked a system and a life rebuilt in real time |
+| [From Strategy to Reality](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-from-strategy-to-reality-and-why-the-grind-still-matters-1gn0) | DEV.to | 2025-05-14 | How the ChatGPT-generated Masterplan became the blueprint for the ecosystem |
+| [The Genesis of the Infinite Weave](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-the-genesis-of-the-infinite-weave-44em) | DEV.to | 2025-04-17 | Genesis article introducing the Duality of Progress and the Masterplan Infinite Weave |
+| [Duality of Progress: Master Index & Strategic Manifesto](https://dev.to/masterplanner25/2025-chatgptai-the-duality-of-progress-master-index-strategic-manifesto-2mnd) | DEV.to | 2025-07-13 | Navigation document establishing MIW as a living recursive system |
+| [Case Study Series: 4 Months Later](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-4-months-later-4hmp) | DEV.to | 2025-06-29 | 6 months, 11 formulas, 150 articles — the ecosystem's compound growth documented |
+| [Master Prompt](https://dev.to/masterplanner25/2025-chatgpt-case-study-master-prompt-311j) | DEV.to | 2025-03-17 | The Master Prompt: structured AI-driven execution for building and activating a Masterplan |
+| [Series Overview](https://dev.to/masterplanner25/2025-chatgpt-case-study-series-overview-17ec) | DEV.to | 2025-03-15 | Master overview of the 2025 ChatGPT Case Study Series — the primary documentation of MIW |
+
+→ [Full articles index](../articles.md)
