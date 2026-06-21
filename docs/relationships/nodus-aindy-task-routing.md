@@ -14,9 +14,9 @@ layout: default
 
 ## Overview
 
-Nodus is the custom programming language built by Shawn Knight via agentic AI tools, designed to become A.I.N.D.Y.'s internal scripting and workflow execution layer. The relationship is directional and future-oriented: A.I.N.D.Y. currently runs workflows through Python/FastAPI service logic; Nodus is intended to replace or extend that layer with a sandboxed, embeddable scripting language that A.I.N.D.Y. can execute on behalf of users without exposing the host Python environment.
+Nodus is the custom programming language built by Shawn Knight via agentic AI tools, designed as A.I.N.D.Y.'s internal scripting and workflow execution layer. Nodus is now published on PyPI (`pip install nodus-lang`, v4.0.6) with a 29-package companion ecosystem. The integration with A.I.N.D.Y. is active: `nodus-mcp-server` exposes six Nodus tools (`nodus_run_goal`, `nodus_run_workflow`, `nodus_store_memory`, `nodus_recall`, and others) directly to Claude Desktop and ChatGPT Desktop, sharing a single SQLite memory store across both AI systems.
 
-The `NodusRuntime` embedding API is the integration point: it accepts a Nodus source file, compiles it to bytecode, and executes it in a sandboxed VM with configurable limits (`max_steps`, `timeout_ms`, `allowed_paths`). This makes Nodus suitable for running user-defined automation workflows inside A.I.N.D.Y. safely.
+The `NodusRuntime` embedding API is the core integration point: it accepts a Nodus source file, compiles it to bytecode, and executes it in a sandboxed VM with configurable limits (`max_steps`, `timeout_ms`, `allowed_paths`). This makes Nodus suitable for running user-defined automation workflows inside A.I.N.D.Y. safely.
 
 The build process of Nodus itself — documented in 36 Codex shifts and 3 Claude shifts — is the founding material for the 2026 Codex Case Study Series, which will position Nodus as proof that a complete language can be built in one week through human-AI collaboration.
 
@@ -40,7 +40,7 @@ The build process of Nodus itself — documented in 36 Codex shifts and 3 Claude
 
 - Sandboxed workflow execution results
 - Task routing decisions driven by Nodus logic
-- Future: user-defined automation pipelines inside A.I.N.D.Y.
+- User-defined automation pipelines inside A.I.N.D.Y. (via `nodus-mcp-server`)
 - 2026 Codex Case Study Series documentation of the Nodus build process
 
 ---

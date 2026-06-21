@@ -13,7 +13,9 @@ layout: default
 
 ## Definition
 
-Nodus is a custom programming language created by Shawn Knight in approximately one week of intensive agentic AI-assisted development. It is a complete compiled language with a lexer, parser, AST, bytecode compiler, optimizer, module loader, stack-based virtual machine, coroutine scheduler, and 48 built-in functions. Nodus is designed as an embeddable scripting and workflow language, intended to become the internal execution layer for [A.I.N.D.Y.](./aindy.md).
+Nodus is a custom programming language created by Shawn Knight in approximately one week of intensive agentic AI-assisted development. It is a complete compiled language with a lexer, parser, AST, bytecode compiler, optimizer, module loader, stack-based virtual machine, coroutine scheduler, and built-in functions for AI-native orchestration. Nodus is designed as an embeddable scripting and workflow language and the execution layer for [A.I.N.D.Y.](./aindy.md).
+
+**Current version:** v4.0.6, published on PyPI as [`nodus-lang`](https://pypi.org/project/nodus-lang/) (`pip install nodus-lang`). Ships with a 29-package companion ecosystem including `nodus-mcp`, `nodus-sdk`, `nodus-extension`, and `nodus-mcp-server`.
 
 ---
 
@@ -31,22 +33,24 @@ Programming language / execution layer. Nodus is a language artifact of the Mast
 
 ## Components
 
-The Nodus implementation pipeline, as analyzed:
+The Nodus implementation pipeline, as analyzed at v1.0 (the codebase has grown significantly in v4.x):
 
-| Module | Purpose | Size |
-|--------|---------|------|
-| `lexer.py` | Tokenization (regex-based) | 236 lines |
-| `parser.py` | Recursive-descent AST construction | 798 lines |
-| `ast/ast_nodes.py` | Typed dataclass node hierarchy | 325 lines |
-| `symbol_table.py` | Scope resolution and upvalue detection | 245 lines |
-| `compiler.py` | Two-pass bytecode code generation | 997 lines |
-| `optimizer.py` | Peephole and constant-fold optimization | 330 lines |
-| `module_loader.py` | Resolution, caching, dependency graph | 878 lines |
-| `vm/vm.py` | Stack VM + all 48 built-in implementations | 2,415 lines |
-| `scheduler.py` | Coroutine round-robin scheduler | 225 lines |
-| `embedding.py` | NodusRuntime public embedding API | — |
+| Module | Purpose |
+|--------|---------|
+| `lexer.py` | Tokenization (regex-based) |
+| `parser.py` | Recursive-descent AST construction |
+| `ast/ast_nodes.py` | Typed dataclass node hierarchy |
+| `symbol_table.py` | Scope resolution and upvalue detection |
+| `compiler.py` | Two-pass bytecode code generation |
+| `optimizer.py` | Peephole and constant-fold optimization |
+| `module_loader.py` | Resolution, caching, dependency graph |
+| `vm/vm.py` | Stack VM + built-in implementations |
+| `scheduler.py` | Coroutine round-robin scheduler |
+| `embedding.py` | NodusRuntime public embedding API |
 
-**Additional tooling:** `NodusRuntime` embedding API (with sandbox: `max_steps`, `timeout_ms`, `allowed_paths`), bytecode cache, snapshot manager, REPL.
+**Additional tooling:** `NodusRuntime` embedding API (with sandbox: `max_steps`, `timeout_ms`, `allowed_paths`), bytecode cache, snapshot manager, REPL, LSP server, DAP debugger, test runner, formatter, HTTP server mode.
+
+**Bytecode:** BYTECODE_VERSION 4. 47 stable opcodes. Frozen since v4.0.
 
 **Build artifacts:** `tiny_lang.py`, `tiny_lang_2.py`, `tiny_lang_3.py`, `tiny_lang_4.py`, `tiny_vm.py`, `tiny_vm_lang.py`, `tiny_vm_lang_functions.py` — iterative development versions showing the language's evolution across build sessions (Codex shifts 1–36, Claude shifts 1–3).
 
@@ -59,15 +63,16 @@ The Nodus implementation pipeline, as analyzed:
 - Python as the implementation language (the VM and all tooling are written in Python)
 
 **Powers:**
-- Future [A.I.N.D.Y.](./aindy.md) workflow scripting and task routing
+- [A.I.N.D.Y.](./aindy.md) workflow scripting and task routing (via `nodus-mcp-server`, which connects to Claude Desktop and ChatGPT Desktop)
 - Embedded scripting for sandbox execution within Masterplan workflows
+- 29-package companion ecosystem (MCP, SDK, extensions, memory, Jupyter kernel, VS Code extension)
 
 **Depends on:**
 - Python 3 runtime
-- `pyo3` (planned) for future Rust integration layer
+- `pyo3` — implemented via `nodus-native-memory-engine` (published on PyPI)
 
 **Outputs to:**
-- Bytecode (compiled from Nodus source)
+- Bytecode (compiled from Nodus source), BYTECODE_VERSION 4
 - VM execution results
 - Future: 2026 Codex Case Study Series (documenting the build process)
 
